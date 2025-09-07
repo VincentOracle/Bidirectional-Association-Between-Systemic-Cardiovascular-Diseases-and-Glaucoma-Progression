@@ -2,17 +2,6 @@
 <img width="750" height="456" alt="image" src="https://github.com/user-attachments/assets/428190de-2723-4043-9a16-30b097abe6a7" />
 
 
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>Bidirectional Association Between Systemic Cardiovascular Diseases and Glaucoma Progression: A Real-World Evidence Study Using TriNetX</strong></p>
-<p><strong>&nbsp;</strong></p>
-<p>&nbsp;</p>
-<p>Author:&nbsp;[Were Vincent/Data Analysis in Health Sciences]</p>
-<p>Institution of Affiliation</p>
-<p>Kenyatta University<br /> Date:&nbsp;August 27, 2025</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><a name="_Toc207300417"></a><strong>Abstract</strong></p>
 <p>The pathophysiological interplay between systemic cardiovascular diseases (CVD) and glaucoma progression remains a critical area of ophthalmological and cardiological research. This study leverages the TriNetX global federated health network and advanced R-based analytics to investigate the bidirectional association between these conditions. Utilizing a large-scale retrospective cohort design, patient data were extracted, cleaned, and analyzed using&nbsp;tidyverse&nbsp;packages in R. Propensity Score Matching (PSM) was employed to control for confounders, and survival analysis was conducted using Cox proportional hazards models. The analysis of a cohort from 68 healthcare institutions (n = 37,841&nbsp;initial observations) revealed that aortic stenosis (AS) is a significant risk factor for optic neuropathy. Patients with AS exhibited a 27.7% higher adjusted risk of developing glaucoma (aHR = 1.277, 95% CI: 1.242&ndash;1.312,&nbsp;*p*&nbsp;&lt; 0.001) and a 36.2% higher risk of ischemic optic neuropathy (aHR = 1.362, 95% CI: 1.197&ndash;1.549,&nbsp;*p*&nbsp;&lt; 0.001) compared to a matched cohort without AS [1]. Furthermore, a duration-response relationship was identified, with longer AS duration correlating with increased risk. While this real-world evidence (RWE) robustly demonstrates a significant unidirectional association, establishing definitive bidirectional causality requires complementary methodologies like Mendelian Randomization (MR) to overcome the inherent limitations of observational data [2], [3]. This study underscores the importance of integrated cardio-ophthalmic patient management and provides a robust analytical framework for future RWE research.</p>
 <p><strong><br /> </strong></p>
@@ -168,6 +157,9 @@
 <p><strong>1.5 The Role of Vascular Abnormalities in Glaucomatous Neurodegeneration</strong></p>
 <p>The vascular theory of glaucomatous neurodegeneration suggests that reduced per- fusion pressure, faulty vascular autoregulation, and loss of neurovascular coupling play important roles in the relationship between vascular abnormalities and glaucomatous neurodegeneration [3,7]. In terms of hemodynamics, an increased incidence of glaucoma has been observed in patients with systemic cardiovascular diseases, such as DM [5,6] and high BP [8,9].</p>
 <p>&nbsp;</p>
+
+<img width="888" height="236" alt="image" src="https://github.com/user-attachments/assets/782d6d0f-5464-46ca-be23-75d9c059136a" />
+
 <p><strong>Figure 2.</strong> <em>The proposed mechanism of systematic hemodynamic diseases in reducing retinal blood flow (DM: diabetes mellitus; HTN: systematic hypertension; ET-1: endothelin-1; OPP: ocular perfu- sion pressure; RGCs: retinal ganglion cells).</em></p>
 <ol>
 <li><strong><em>Reduced Ocular Perfusion Pressure (OPP):&nbsp;Low</em></strong> OPP (the pressure needed to push blood through the eye's vessels) is strongly linked to an increased risk of developing and worsening glaucoma, as it reduces blood flow to the optic nerve head.</li>
