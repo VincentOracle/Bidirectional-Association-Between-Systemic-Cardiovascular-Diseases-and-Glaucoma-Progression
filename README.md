@@ -77,7 +77,7 @@
 <ol start="4">
 <li><strong><em><a href="#_Toc207300426"> Results and Analysis. 21</a></em></strong></li>
 </ol>
-<p><a href="#_Toc207300427">......................................................................................................................................................................... 27</a></p>
+<p><a href="#_Toc207300427">.......27</a></p>
 <ol start="5">
 <li><a href="#_Toc207300428"><strong> Discussion</strong>. 27</a></li>
 </ol>
@@ -108,6 +108,10 @@
 <p>In addition, regarding hemodynamics, a notable association between glaucoma and systemic cardiovascular diseases, such as diabetes mellitus (DM) [5&ndash;7], high blood pressure (BP) [8,9], low BP [10], and nocturnal dipping [11] has been documented, suggesting an elevated incidence of glaucoma in affected individuals. These observations highlight the potential influence of hemodynamic factors on glaucoma development and progression [12,13]. Abnormal vascular function can also influence the secretion and drainage of aqueous humor (AH), thus affecting IOP regulation [14]. The elevated IOP resulting from vascular abnormalities can induce compression of RGCs and their axons, as well as diminished ocular blood supply. Consequently, these factors contribute to the pathogenesis and progression of glaucoma [15].</p>
 <p><strong><em>1.2.1 The Anatomy of Blood Supply in the Retina</em></strong></p>
 <p>The retina's blood supply is divided between two systems: the central retinal artery (CRA), which supplies the inner retina (including ganglion cells), and the choroidal circulation, which supplies the outer retina (including photoreceptors). Due to the retina's high metabolic demand and sparse vasculature, it is highly vulnerable to vascular diseases[4]. The text specifically highlights that retinal ganglion cells (RGCs) in the inner retina are susceptible to damage from reduced blood supply. This is supported by both animal studies, which show that restricted blood flow leads to RGC death, and clinical studies, which find a strong link between impaired blood flow and the severity of glaucoma.</p>
+
+<img width="978" height="398" alt="image" src="https://github.com/user-attachments/assets/9e73f3ee-e6f1-4f27-8219-2643ec0ac4df" />
+
+
 <p><strong>Figure 1</strong>. <em>The anatomical depiction of the retinal blood supply.</em></p>
 <p>Retinal vascular dysfunction has been reported secondary to glaucoma, indicative of a bidirectional relationship between glaucoma and retinal vascular pathology [16]. These secondary manifestations of glaucoma include a reduction in retinal vascular diameter [17], decreased retinal vascular density [18], alterations in retinal vascular molecules [19], im- paired autoregulation, arteriolar dysfunction within the retina [16], and even occurrences of retinal vein occlusion [17,20]. However, the answer to the question of whether vascular abnormalities drive glaucoma progression or if glaucoma serves as the instigator of vascular abnormalities remains elusive. In this comprehensive review, we investigate published evidence and provide a succinct summary of the vascular factors that potentially contribute to the pathogenesis of glaucoma. Additionally, we explore ocular vascular abnormalities that arise as a consequence of glaucoma. Furthermore, our analysis aims to identify po- tential vascular biomarkers that can serve as indicators for the progression and prognosis of glaucoma and the role of these biomarkers in refining current management strategies for glaucoma.</p>
 <h3><a name="_Toc207300422"></a><strong>1.3. Research Objectives and Hypothesis</strong></h3>
