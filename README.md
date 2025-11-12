@@ -112,7 +112,6 @@
 
 <img width="978" height="398" alt="image" src="https://github.com/user-attachments/assets/9e73f3ee-e6f1-4f27-8219-2643ec0ac4df" />
 
-
 <p><strong>Figure 1</strong>. <em>The anatomical depiction of the retinal blood supply.</em></p>
 <p>Retinal vascular dysfunction has been reported secondary to glaucoma, indicative of a bidirectional relationship between glaucoma and retinal vascular pathology [16]. These secondary manifestations of glaucoma include a reduction in retinal vascular diameter [17], decreased retinal vascular density [18], alterations in retinal vascular molecules [19], im- paired autoregulation, arteriolar dysfunction within the retina [16], and even occurrences of retinal vein occlusion [17,20]. However, the answer to the question of whether vascular abnormalities drive glaucoma progression or if glaucoma serves as the instigator of vascular abnormalities remains elusive. In this comprehensive review, we investigate published evidence and provide a succinct summary of the vascular factors that potentially contribute to the pathogenesis of glaucoma. Additionally, we explore ocular vascular abnormalities that arise as a consequence of glaucoma. Furthermore, our analysis aims to identify po- tential vascular biomarkers that can serve as indicators for the progression and prognosis of glaucoma and the role of these biomarkers in refining current management strategies for glaucoma.</p>
 <h3><a name="_Toc207300422"></a><strong>1.3. Research Objectives and Hypothesis</strong></h3>
