@@ -189,7 +189,9 @@ cardiovascular-glaucoma-study/
 ## 📞 Contact & Collaboration
 
 **Primary Investigator**: Were Vincent O
+
 **Data Access**: TriNetX Platform (https://trinetx.com)  
+
 **Code Repository**: https://github.com/VincentOracle/Bidirectional-Association-Between-Systemic-Cardiovascular-Diseases-and-Glaucoma-Progression/edit/master/README.md  
 **Analytical Tools**: R, Python, TriNetX BYOM  
 
